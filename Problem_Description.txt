@@ -1,0 +1,8 @@
+Product Description Problem Definition:
+
+Problem: Assist the Retail Team with product category based off the product description.
+
+Why is this important: This system quicken and helps avoid mistakes of affixing product to the correct categories.
+
+How is it solved: Use Natural Language Processing techniques to extract text and convert to features, then use the features to determine category of product using categorical machine learning approaches like LogisticRegression, SVM, RandomForest and/or Deep Learning.
+
